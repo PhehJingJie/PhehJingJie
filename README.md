@@ -20,11 +20,11 @@
 </a>  
 </p>
 
-I am a Software Engineer, Roboticist and Project Manager with strong problem-solving skills. I specialized in Software Engineering for Robotics, Intelligent Machines and the applied Artificial Intelligence. I held a Computer Science BEng Degree (Honours with Distinction) from SUTD (Singapore University of Technology and Design) with a minor in Artificial Intelligence as a SUTD Global Distinguished Scholar.
+I am a Lead Robotics System Engineer and Roboticist specialized in Software Engineering for Robotics, Intelligent Machines and the applied Artificial Intelligence. I held a Computer Science BEng Degree (Honours with Distinction) from SUTD (Singapore University of Technology and Design) with a minor in Artificial Intelligence as a SUTD Global Distinguished Scholar.
 
-I also held a Diploma in Mechatronics and Robotics (With Merit) from Singapore Polytechnic as the Valedictorian and Institutions of Engineers Singapore (IES) Gold Medal Recipient. I am an excellent team player and leader who is an experienced communicator with strong interpersonal skills.
+My academic foundation is further bolstered by a Diploma in Mechatronics and Robotics (With Merit) from Singapore Polytechnic, where I graduated as Valedictorian and received the prestigious IES Gold Medal.
 
-I am also a Military Officer with the Rank of Captain from the Singapore Armed Forces, currently leading more than 130 Commanders and Soldiers in National Service as the Officer Commanding. I also held a Professional Diploma In Leadership and People Management and an Advanced Certificate In Team Leadership.
+I excel in both collaborative teamwork and leadership, underpinned by robust communication and interpersonal skills. I am also a Military Officer with the Rank of Captain from the Singapore Armed Forces, currently leading more than 130 Commanders and Soldiers in National Service as the Officer Commanding. My leadership credentials are complemented by a Professional Diploma in Leadership and People Management and an Advanced Certificate in Team Leadership.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjbecomespheh&label=Profile%20views&color=0e75b6&style=flat" alt="jjbecomespheh" /> </p>
 
